@@ -26,6 +26,10 @@
 *.a
 *.lib
 
+.vscode
+
+.idea
+
 # Executables
 *.exe
 *.out
