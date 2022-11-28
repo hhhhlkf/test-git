@@ -26,7 +26,7 @@ git clone https://github.com/hhhhlkf/redbase.git
 
 ### git bash下非冲突的版本更新
 
-![QQ图片20221128163548](./img/QQ图片20221128163548.jpg)
+![InkedQQ图片20221128163548](./img/InkedQQ图片20221128163548.jpg)
 
 关键步骤为：
 
